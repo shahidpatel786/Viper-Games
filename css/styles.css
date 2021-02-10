@@ -1,0 +1,23 @@
+body {
+  background-color: aqua;
+  margin: 0;
+  text-align: center;  
+}	
+
+h1,h2,h3 {
+  text-align: center;	
+}
+
+p,q {
+  text-align: center;
+}
+
+hr {
+  background-color: aqua;	
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 5px;
+  width: 30%
+}
+
+
